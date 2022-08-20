@@ -24,7 +24,7 @@ const hostnameCanisterIdMap: Record<string, [string, string]> = {
   'personhood.ic0.app': ['g3wsl-eqaaa-aaaan-aaaaa-cai', 'ic0.app'],
   
   // Custom Domains
-  'fractals.ic-proxy.jamesmcguigan.com': ['nwb7c-dqaaa-aaaak-qatfa-cai', 'ic0.app'],  
+  'fractals.icp.jamesmcguigan.com': ['nwb7c-dqaaa-aaaak-qatfa-cai', 'ic0.app'],
 };
 
 const shouldFetchRootKey: boolean = ['1', 'true'].includes(
