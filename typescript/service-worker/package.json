@@ -68,7 +68,7 @@
     "format": "npm run prettier:format"
   },
   "engines": {
-    "node": "^17",
+    "node": "^16.x",
     "npm": "^8.5"
   },
   "keywords": [
